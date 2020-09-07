@@ -1,0 +1,7 @@
+com\EmployeesEvents\employeesEvents\entity\Events.class
+com\EmployeesEvents\employeesEvents\dao\EmployeesDao.class
+com\EmployeesEvents\employeesEvents\daoImpl\EventsDaoImpl.class
+com\EmployeesEvents\employeesEvents\dao\EventsDao.class
+com\EmployeesEvents\employeesEvents\daoImpl\EmployeesDaoImpl.class
+com\EmployeesEvents\employeesEvents\entity\Employees.class
+com\EmployeesEvents\employeesEvents\controller\EmployeesEventsController.class
